@@ -18,4 +18,9 @@ while guess is not genNumber:
         print("WRONG!!!!!!! Too high of a number!")
         print(f"Past Guesses: {guessHistory}")
         guessHistory.append(guess)
+
+
+        
+        # / o o \
+        # \  U  /
     
